@@ -65,3 +65,16 @@
 .cards img:hover {
   margin-left: 50px;
 }
+.balance p {
+  margin: 10px;
+  font-weight: bold;
+}
+.valuebalance{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  transition: all 1s;
+}
+.valuebalance p{
+  margin: 10px;
+}
